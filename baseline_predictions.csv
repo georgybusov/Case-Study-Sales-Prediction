@@ -1,0 +1,8 @@
+Model,WMAE
+RandomForest,1445.4
+ExtraTrees,1465.77
+XGBoost,3138.63
+GradientBoosting,7100.68
+SVR,13371.91
+Lasso,14829.0
+Ridge,14830.49
